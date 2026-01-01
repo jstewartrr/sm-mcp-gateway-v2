@@ -1,0 +1,14 @@
+starlette>=0.32.0
+uvicorn>=0.24.0
+httpx>=0.25.0
+snowflake-connector-python>=3.5.0
+python-multipart>=0.0.6
+google-cloud-aiplatform>=1.38.0
+google-cloud-storage>=2.14.0
+google-auth>=2.25.0
+azure-identity>=1.15.0
+dropbox>=11.36.0
+PyJWT>=2.8.0
+cryptography>=41.0.0
+aiofiles>=23.2.0
+python-jose>=3.3.0
